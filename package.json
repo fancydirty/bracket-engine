@@ -1,0 +1,10 @@
+{
+  "name": "bracket-engine",
+  "version": "1.0.0",
+  "description": "Tournament bracket engine: single elimination, double elimination and round robin for any number of teams. The engine behind bracketmaker.co.",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://bracketmaker.co",
+  "scripts": { "test": "node --test src/*.test.ts" },
+  "engines": { "node": ">=22.6" }
+}
